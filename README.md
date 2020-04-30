@@ -14,7 +14,7 @@ Commands:
 - dm all (dms everyone in the server whatever you want it to dm)
 - ban all (bans everyone)
 - kick all (kicks everyone)
-- clear console (this clears the console)
+- cls (this clears the console)
 - help (shows all commands in console)
 
 How to run:
